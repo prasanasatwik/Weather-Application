@@ -73,4 +73,4 @@ for desktop and mobile use?
 
 All data provided by the great service and API of [OpenWeatherMap](http://openweathermap.org/).
 
-Copyright (c) 2013 Matthias Lienau &lt;matthias@mlienau.de&gt;
+
