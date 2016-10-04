@@ -1,25 +1,3 @@
-#### Note: Fix in latest update (v 0.1.6) on October 30, 2015
-Fixed bug leading to broken openweathermap API calls: Header field `x-api-key`
-is not sufficient anymore, so that now an additional query parameter `APPID` is mandatory.
-
----
-
-# angular-openweather-app — a weather forecast app written in AngularJS
-
-<img src="app/img/app_screenshot_v_0-1-4_1.png" alt="OpenWeather App"/>
-
-"OpenWeather App" is a small AngularJS project that makes use of the [OpenWeatherMap](http://openweathermap.org/)
-service for fetching and displaying weather data and forecasts based on a given location (city).
-
-_This project basically serves as an example app I refer to within an article about AngularJS
-I wrote for the German web technology magazine [t3n no. 34](http://t3n.de/news/t3n-34-fertig-100-wichtigsten-netzkoepfe-508528/)._
-
-
-## Demo
-
-A demo site running this little app can be found [here](http://w4.matthiaslienau.de/angular-openweather-app/app/).
-
-
 ## Why?
 
 Points of interests:
