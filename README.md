@@ -39,18 +39,6 @@ angular-openweather-app uses:
 * [Bootstrap v3.0.0](https://github.com/twbs/bootstrap)
 
 
-## Installation
-
-### Clone repository and install dependencies
-
-via git and npm:
-
-```
-$ git clone git@github.com:atufkas/angular-openweather-app.git [my-app-name]
-$ cd [my-app-name]
-$ npm install
-```
-
 ### Run application via server
 
 (see also [angular-seed docs](https://github.com/angular/angular-seed))
